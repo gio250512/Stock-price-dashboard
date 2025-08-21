@@ -1,0 +1,16 @@
+{
+  "name": "Stock Price Dashboard",
+  "short_name": "StockDash",
+  "description": "Real-time stock price dashboard with market analytics",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#3b82f6",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}
